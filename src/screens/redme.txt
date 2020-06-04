@@ -1,0 +1,4 @@
+To install this App you need to have NPM or Yarn on your computer and expo Client on your Mobile Device .
+1. install expo-cli
+2. run in the Terminal expo start
+3. scan the code with your expo client on your IOS or Android Device 
